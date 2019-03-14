@@ -1,0 +1,5 @@
+c:\users\kovvuru\source\repos\FirstWebApp\FirstWebApp
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=FirstWebApp
+--content-root=c:\users\kovvuru\source\repos\FirstWebApp\FirstWebApp
+--file=
